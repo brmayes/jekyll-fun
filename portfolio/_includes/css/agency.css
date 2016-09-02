@@ -274,7 +274,7 @@ header {
         rgba(39, 42, 51, 0.75)
       ),
       /* bottom, image */
-      url('{{ site.baseurl }}/img/oldwell.jpg');
+      url('{{ site.baseurl }}/img/headshot.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
